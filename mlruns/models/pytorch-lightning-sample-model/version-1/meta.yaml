@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1692778881850
+current_stage: None
+description: null
+last_updated_timestamp: 1692778881850
+name: pytorch-lightning-sample-model
+run_id: 56e0cb64f1214d45a612876cd86cd3ad
+run_link: null
+source: file:///Users/matthew/Documents/Documents%20-%20Hong%E2%80%99s%20MacBook%20Air/software-engineering/python/mlflow-sample/mlruns/0/56e0cb64f1214d45a612876cd86cd3ad/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

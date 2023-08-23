@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matthew/Documents/Documents%20-%20Hong%E2%80%99s%20MacBook%20Air/software-engineering/python/mlflow-sample/mlruns/0/ea393e58ad0d44ee9b74f0964dc30012/artifacts
+end_time: 1692778542855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea393e58ad0d44ee9b74f0964dc30012
+run_name: unruly-stoat-699
+run_uuid: ea393e58ad0d44ee9b74f0964dc30012
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692778538495
+status: 3
+tags: []
+user_id: matthew

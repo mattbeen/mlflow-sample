@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1692778542853
+current_stage: None
+description: null
+last_updated_timestamp: 1692778542853
+name: diabete-random-forest-reg-model
+run_id: ea393e58ad0d44ee9b74f0964dc30012
+run_link: null
+source: file:///Users/matthew/Documents/Documents%20-%20Hong%E2%80%99s%20MacBook%20Air/software-engineering/python/mlflow-sample/mlruns/0/ea393e58ad0d44ee9b74f0964dc30012/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

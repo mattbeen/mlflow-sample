@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/matthew/Documents/Documents%20-%20Hong%E2%80%99s%20MacBook%20Air/software-engineering/python/mlflow-sample/mlruns/0/56e0cb64f1214d45a612876cd86cd3ad/artifacts
+end_time: 1692778881854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56e0cb64f1214d45a612876cd86cd3ad
+run_name: suave-pug-432
+run_uuid: 56e0cb64f1214d45a612876cd86cd3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692778731762
+status: 3
+tags: []
+user_id: matthew

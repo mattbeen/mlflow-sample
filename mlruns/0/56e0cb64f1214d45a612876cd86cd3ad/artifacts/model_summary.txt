@@ -1,0 +1,14 @@
+  | Name                | Type       | Params
+---------------------------------------------------
+0 | flatten             | Flatten    | 0     
+1 | linear_relu_stack   | Sequential | 669 K 
+2 | linear_relu_stack.0 | Linear     | 401 K 
+3 | linear_relu_stack.1 | ReLU       | 0     
+4 | linear_relu_stack.2 | Linear     | 262 K 
+5 | linear_relu_stack.3 | ReLU       | 0     
+6 | linear_relu_stack.4 | Linear     | 5.1 K 
+---------------------------------------------------
+669 K     Trainable params
+0         Non-trainable params
+669 K     Total params
+2.679     Total estimated model params size (MB)
